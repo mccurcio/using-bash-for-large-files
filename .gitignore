@@ -1,3 +1,6 @@
+# Keep out tests and misc. files
+testing/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
